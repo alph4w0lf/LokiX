@@ -27,6 +27,7 @@ ToDo
 - VueJs Framework (Template: @CreativeTim)
 ### Agent Software
 - C# (.NET Framework 3.0)
+- Loki IOC Scanner (@blahblah)
 
 ## Continous Development
 ToDo
