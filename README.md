@@ -19,10 +19,10 @@ ToDo
 ToDo
 
 ## Inner Workings
-### Backend
+### Back-end
 - PHP Laravel Framework (Web API)
 - Python (Agent Upgrade Script)
-### Frontend
+### Front-end
 - VueJs Framework (Template: @CreativeTim)
 ### Agent Software
 - C# (.NET Framework 3.0)
