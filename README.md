@@ -7,7 +7,20 @@ LokiX Platform is a free open-source solution to help blue teams and threat hunt
 ToDo
 
 ## Supported Systems
-ToDo
+### Currently Supported
+- Windows Server 2003 (Need to install .NET Framework 3.0) (Not Tested)
+- Windows XP SP2 (Need to install .NET Framework 3.0) (Not Tested)
+- Windows Vista (Not Tested)
+- Windows 7 (Successfully Tested)
+- Windows 8 (Successfully Tested)
+- Windows 10 (Successfully Tested)
+- Windows Server 2008 (Successfully Tested)
+- Windows Server 2012 (Successfully Tested)
+- Windows Server 2016 (Not Tested)
+- Windows Server 2019 (Not Tested)
+### Planned Support (Not available yet)
+- Linux Operating Systems
+- MacOS
 
 ## Installation Steps
 ToDo
