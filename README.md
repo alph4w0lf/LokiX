@@ -18,6 +18,15 @@ ToDo
 ## Demo
 ToDo
 
+## Inner Workings
+### Backend
+- PHP Laravel Framework (Web API)
+- Python (Agent Upgrade Script)
+### Frontend
+- VueJs Framework (Template: @CreativeTim)
+### Agent Software
+- C# (.NET Framework 3.0)
+
 ## Continous Development
 ToDo
 
