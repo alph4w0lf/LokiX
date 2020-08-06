@@ -8,9 +8,7 @@ ToDo
 
 ## Supported Systems
 ### Currently Supported
-- Windows Server 2003 (Need to install .NET Framework 3.0) (Not Tested)
-- Windows XP SP2 (Need to install .NET Framework 3.0) (Not Tested)
-- Windows Vista (Not Tested)
+- Windows Vista (Need to install .NET Framework version 4.5)(Not Tested)
 - Windows 7 (Successfully Tested)
 - Windows 8 (Successfully Tested)
 - Windows 10 (Successfully Tested)
@@ -39,11 +37,8 @@ ToDo
 ### Front-end
 - VueJs Framework (Template: @CreativeTim)
 ### Agent Software
-- C# (.NET Framework 3.0)
+- C# (.NET Framework 4.5)
 - Loki IOC Scanner (@blahblah)
-
-## Continous Development
-ToDo
 
 
 
