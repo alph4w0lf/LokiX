@@ -22,6 +22,7 @@ ToDo
 ### Back-end
 - PHP Laravel Framework (Web API)
 - Python (Agent Upgrade Script)
+- MySQL DBMS
 ### Front-end
 - VueJs Framework (Template: @CreativeTim)
 ### Agent Software
