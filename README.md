@@ -3,22 +3,22 @@
 # LokiX Platform
 LokiX Platform is a free open-source solution to help blue teams and threat hunters use "Loki Scanner" to sweep enterprise networks.
 
-# Features
+## Features
 ToDo
 
-# Supported Systems
+## Supported Systems
 ToDo
 
-# Installation Steps
+## Installation Steps
 ToDo
 
-# Usage Guide
+## Usage Guide
 ToDo
 
-# Demo
+## Demo
 ToDo
 
-# Continous Development
+## Continous Development
 ToDo
 
 
