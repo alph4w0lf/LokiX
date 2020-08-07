@@ -31,6 +31,12 @@ LokiX Platform is a free open-source solution to help blue teams and threat hunt
 ToDo
 #### STEP2: Configure a Static IP Address (Optional)
 ToDo
+SSH Credentials:
+```
+Username: lokix
+Password: lokix
+```
+
 #### STEP3: Firewall Rules (Optional)
 ```
 SOURCE IP                   DESTINATION IP                      PORT                                          REASON
@@ -61,7 +67,7 @@ https://PLATFORM_IP_ADDRESS/
 Username: admin@lokix.local
 Password: password
 ```
-  
+
 #### Updating Loki and its Signatures
 ToDo
 #### Download and Execute the Agent Sweeped Systems
