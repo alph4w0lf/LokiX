@@ -14,14 +14,14 @@ LokiX Platform is a free open-source solution to help blue teams and threat hunt
 
 ## Supported Systems
 #### Currently Supported
-- Windows Vista (Need to install .NET Framework version 4.5)(Not Tested)
-- Windows 7 (Successfully Tested)
-- Windows 8 (Successfully Tested)
-- Windows 10 (Successfully Tested)
-- Windows Server 2008 (Successfully Tested)
-- Windows Server 2012 (Successfully Tested)
-- Windows Server 2016 (Not Tested)
-- Windows Server 2019 (Not Tested)
+- Windows Vista (Need to install .NET Framework version 4.5)
+- Windows Server 2008 (Need to install .NET Framework version 4.5)
+- Windows 7
+- Windows 8
+- Windows 10
+- Windows Server 2012
+- Windows Server 2016
+- Windows Server 2019
 #### Planned Support (Not available yet)
 - Linux Operating Systems
 - MacOS
@@ -80,7 +80,7 @@ Password: password
 
 #### Updating Loki and its Signatures
 ToDo
-#### Download and Execute the Agent Sweeped Systems
+#### Download and Execute the Agent on the Systems that needs to be sweeped
 ToDo
 
 
