@@ -28,10 +28,13 @@ LokiX Platform is a free open-source solution to help blue teams and threat hunt
 
 ## Installation Steps
 #### STEP1: Import LokiX OVA
-ToDo
+Download [LokiX OVA File](https://github.com/alph4w0lf/LokiX/releases/tag/v1.0)
+Then import it into your favourite virtualization solution.
+[VirtualBox Instructions](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html)
+[VMware vSphere Instructions](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.html.hostclient.doc/GUID-8ABDB2E1-DDBF-40E3-8ED6-DC857783E3E3.html)
+[VMware Workation Instructions](https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-DDCBE9C0-0EC9-4D09-8042-18436DA62F7A.html)
 #### STEP2: Configure a Static IP Address (Optional)
-ToDo
-SSH Credentials:
+Login to LokiX system command line using the OS/SSH Default Credentials:
 ```
 Username: lokix
 Password: lokix
