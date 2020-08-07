@@ -44,6 +44,7 @@ Type                        Value
 --------------              -------------------
 FOLDER                      %USERPROFILE%\AppData\Local\Temp\lokix\*
 PROCESS                     agent.exe
+PROCESS                     loki.exe
 ```
 
 
