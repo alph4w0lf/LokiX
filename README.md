@@ -63,7 +63,7 @@ ToDo
 - VueJs Framework (Template: @CreativeTim)
 #### LokiX Agent
 - C# (.NET Framework 4.5)
-- Loki IOC Scanner (@blahblah)
+- Loki IOC Scanner (https://github.com/Neo23x0/Loki)
 
 
 
