@@ -32,9 +32,19 @@ ToDo
 #### STEP2: Configure a Static IP Address (Optional)
 ToDo
 #### STEP3: Firewall Rules (Optional)
-ToDo
+```
+SOURCE IP                   DESTINATION IP                      PORT                                          REASON
+---------------             --------------------                -----------------                             --------------------------
+[SCANNED_ENDPOINTS]         [LOKIX_PLATFORM_IP]                 443/tcp (HTTPS)                               For agent<=>platform communication
+[LOKIX_PLATFORM_IP]         [INTERNET]                          443/tcp (HTTPS), 53/tcp (DNS)                 For Loki signature updates
+```
 #### STEP4: Antivirus White-listing (Optional)
-ToDo
+```
+Type                        Value
+--------------              -------------------
+FOLDER                      %USERPROFILE%\AppData\Local\Temp\lokix\*
+PROCESS                     agent.exe
+```
 
 
 
