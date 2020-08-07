@@ -11,6 +11,8 @@ LokiX Platform is a free open-source solution to help blue teams and threat hunt
 - Centralized dashboard to track scans and view scan results.
 - Loki update through the platform.
 - Auto-highlight of key elements of the scan results.
+- IP Spoofing Protection.
+- Agent Exception handling and error reporting.
 
 ## Supported Systems
 #### Currently Supported
