@@ -40,12 +40,13 @@ ToDo
 
 ## Usage Guide
 #### Platform Admin Panel Access
-Access the platform through the Web Browser:
-  https://PLATFORM_IP_ADDRESS/
+- Access the platform through the Web Browser:
+```https://PLATFORM_IP_ADDRESS/```
   
-Default Credentials:
-  Username: admin@lokix.local
-  Password: password
+- Default Credentials:
+```Username: admin@lokix.local
+Password: password
+```
   
 #### Updating Loki and its Signatures
 ToDo
