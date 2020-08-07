@@ -40,7 +40,13 @@ Login to LokiX system command line using the OS/SSH Default Credentials:
 Username: lokix
 Password: lokix
 ```
-Then, follow the instructions for setting a STATIC IP on "Ubuntu Server" in this link: https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-20-04-focal-fossa-desktop-server
+Then, follow the instructions for setting a STATIC IP on "Ubuntu Server" in this link: 
+```https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-20-04-focal-fossa-desktop-server```
+Then, perform the following instructions to update the backend configurations with the new IP address:
+```
+cd /var/www/backend
+sudo php artisan config:cache
+```
 #### STEP3: Firewall Rules (Optional)
 ```
 SOURCE IP                   DESTINATION IP                      PORT                                          REASON
