@@ -66,7 +66,7 @@ ToDo
 - Python (Agent Upgrade Script)
 - MySQL DBMS
 #### LokiX Front-end
-- VueJs Framework (Template: @CreativeTim)
+- VueJs Framework (Template: [vue-material-dashboard@CreativeTim](https://www.creative-tim.com/product/vue-material-dashboard))
 #### LokiX Agent
 - C# (.NET Framework 4.5)
 - Loki IOC Scanner (https://github.com/Neo23x0/Loki)
