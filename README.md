@@ -55,13 +55,13 @@ ToDo
 ToDo
 
 ## Inner Workings
-### LokiX Back-end
+#### LokiX Back-end
 - PHP Laravel Framework (Web API)
 - Python (Agent Upgrade Script)
 - MySQL DBMS
-### LokiX Front-end
+#### LokiX Front-end
 - VueJs Framework (Template: @CreativeTim)
-### LokiX Agent
+#### LokiX Agent
 - C# (.NET Framework 4.5)
 - Loki IOC Scanner (@blahblah)
 
