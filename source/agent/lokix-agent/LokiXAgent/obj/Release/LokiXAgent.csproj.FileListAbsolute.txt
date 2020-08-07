@@ -1,0 +1,10 @@
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\bin\Release\LokiXAgent.exe.config
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\bin\Release\LokiXAgent.exe
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\bin\Release\LokiXAgent.pdb
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.csprojAssemblyReference.cache
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.Form1.resources
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.Properties.Resources.resources
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.csproj.GenerateResource.cache
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.exe
+C:\Users\saleh\Desktop\lokix-agent\LokiXAgent\obj\Release\LokiXAgent.pdb
