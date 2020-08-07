@@ -41,10 +41,13 @@ ToDo
 ## Usage Guide
 #### Platform Admin Panel Access
 - Access the platform through the Web Browser:
-```https://PLATFORM_IP_ADDRESS/```
+```
+https://PLATFORM_IP_ADDRESS/
+```
   
 - Default Credentials:
-```Username: admin@lokix.local
+```
+Username: admin@lokix.local
 Password: password
 ```
   
