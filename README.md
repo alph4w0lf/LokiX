@@ -86,10 +86,14 @@ Password: password
 
 #### Updating Loki and its Signatures
 <p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-update.gif?raw=true"></p>
+
+
 #### Download and Execute the Agent on the Systems that needs to be sweeped
-- Download LokiX Agent:
+Download LokiX Agent:
 <p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-download.gif?raw=true"></p>
-- Execute LokiX Agent:
+
+
+Execute LokiX Agent:
 <p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-execute.gif?raw=true"></p>
 
 
