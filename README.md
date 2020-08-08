@@ -32,6 +32,10 @@ LokiX Platform is a free open-source solution to help blue teams and threat hunt
 #### STEP1: Import LokiX OVA
 Download LokiX OVA File: https://github.com/alph4w0lf/LokiX/releases/tag/v1.0
 
+   Extract the 7z compressed file contents (Linux):
+```
+7z e lokix-virtual-server.7z
+```
    Then import it into your favourite virtualization solution.
 - [VirtualBox Instructions](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html)
 - [VMware vSphere Instructions](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.html.hostclient.doc/GUID-8ABDB2E1-DDBF-40E3-8ED6-DC857783E3E3.html)
@@ -81,9 +85,12 @@ Password: password
 ```
 
 #### Updating Loki and its Signatures
-ToDo
+<p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-update.gif?raw=true"></p>
 #### Download and Execute the Agent on the Systems that needs to be sweeped
-ToDo
+- Download LokiX Agent:
+<p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-download.gif?raw=true"></p>
+- Execute LokiX Agent:
+<p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-execute.gif?raw=true"></p>
 
 
 ## Demo
