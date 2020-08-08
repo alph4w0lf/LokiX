@@ -87,7 +87,7 @@ ToDo
 
 
 ## Demo
-ToDo
+<p align="center"><img src="https://github.com/alph4w0lf/LokiX/blob/master/screenshots-demo.gif?raw=true"></p>
 
 ## Inner Workings
 #### LokiX Back-end
